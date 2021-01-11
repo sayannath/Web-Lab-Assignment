@@ -1,2 +1,2 @@
-# Web-Lab-Assignment-
+# Web-Lab-Assignment
 HTML
